@@ -1,0 +1,8 @@
+Contributing towards integration activities for future chipset platforms, working as integration specialist for end to end target 
+activities
+related to wireless embedded software integration & testing (contributing & leading challenges tasks in all phases of product life-cycle 
+right from conceptualization of new chip to final customer launches)
+
+7 are related to CDMA
+2 CSFB
+2 Emergency
